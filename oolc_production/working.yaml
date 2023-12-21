@@ -1,0 +1,9 @@
+project_id: oomlout_tdpbmct_nineteen_inch_rack_sliding_platform
+project_name: "nineteen inch rack sliding platform"
+project_repo: github.com/oomlout/oomlout_tdpbmct_nineteen_inch_rack_sliding_platform
+production_format:
+  oolc_1_120_ml_tray:
+    file_location: source_files/oolc_1.cdr
+  
+  
+  
