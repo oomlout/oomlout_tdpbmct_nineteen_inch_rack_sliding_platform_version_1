@@ -4,6 +4,8 @@ project_repo: github.com/oomlout/oomlout_tdpbmct_nineteen_inch_rack_sliding_plat
 production_format:
   oolc_1_120_ml_tray:
     file_location: source_files/oolc_1.cdr
+  oolc_2_120_ml_tray_half_shelf_small:
+    file_location: source_files/oolc_2.cdr
   
   
   
