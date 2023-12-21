@@ -20,3 +20,12 @@
 * thickness:   
 * material:   
  
+
+### oolc_3_30_ml_tray_half_shelf_small
+* link: [/oolc_3_30_ml_tray_half_shelf_small](oolc_3_30_ml_tray_half_shelf_small)  
+![](oolc_3_30_ml_tray_half_shelf_small/working_300.png)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
