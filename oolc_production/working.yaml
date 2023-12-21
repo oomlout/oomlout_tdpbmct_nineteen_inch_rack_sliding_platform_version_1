@@ -6,6 +6,8 @@ production_format:
     file_location: source_files/oolc_1.cdr
   oolc_2_120_ml_tray_half_shelf_small:
     file_location: source_files/oolc_2.cdr
+  oolc_3_30_ml_tray_half_shelf_small:
+    file_location: source_files/oolc_3.cdr
   
   
   
