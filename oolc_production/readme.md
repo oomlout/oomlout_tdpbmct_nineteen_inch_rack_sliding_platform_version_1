@@ -29,3 +29,12 @@
 * thickness:   
 * material:   
  
+
+### oolc_4_60_ml_tray_half_shelf_large
+* link: [/oolc_4_60_ml_tray_half_shelf_large](oolc_4_60_ml_tray_half_shelf_large)  
+![](oolc_4_60_ml_tray_half_shelf_large/working_300.png)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
